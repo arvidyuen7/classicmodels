@@ -12,4 +12,4 @@ Tools used: MySQL, R Markdown
 
 ### How to view
 
-To view the project click [here](/classicmodels_rmd.html "here").
+To view the project click [here](https://arvidyuen7.github.io/classicmodels/classicmodels_rmd.html "here")  or use this address https://arvidyuen7.github.io/classicmodels/classicmodels_rmd.html.
